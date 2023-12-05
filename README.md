@@ -1,4 +1,3 @@
 # CONFLICTS
 
-
-### fakjsnkfnjajsa
+### Github conflicts repo
