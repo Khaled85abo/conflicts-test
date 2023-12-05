@@ -1,3 +1,4 @@
+## this should be Flask application
 from flask import Flask
 from dotenv import load_dotenv
 
